@@ -1,0 +1,10 @@
+{
+  "nome": "Pizza do Zé",
+  "horario": "18:00 às 23:30",
+  "endereco": "Rua das Pizzas, 123",
+  "cardapio": [
+    {"nome": "Pizza de Calabresa", "preco": 35, "sem_gluten": false, "sem_lactose": true},
+    {"nome": "Pizza de Frango", "preco": 38, "sem_gluten": false, "sem_lactose": false},
+    {"nome": "Pizza Vegana", "preco": 42, "sem_gluten": true, "sem_lactose": true}
+  ]
+}
